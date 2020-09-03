@@ -6,7 +6,7 @@ where
 
     - ``name``: class name
     - ``bases``: tuple of the parent classes
-    - ``attrs``: dictionary of attribute names and values.
+    - ``namespace``: dictionary of attribute names and values.
 
 It returns a class.
 

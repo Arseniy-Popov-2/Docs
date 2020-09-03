@@ -10,6 +10,7 @@ Welcome to docs's documentation!
    :maxdepth: 2
    
    metaclasses
+   singleton
 
 
 Indices and tables
